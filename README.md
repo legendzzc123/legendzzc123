@@ -20,5 +20,6 @@ I am passionate about building automated AI systems, enhancing computational wor
 - **Languages:** English (Full Professional), Arabic (Native)
 
 ### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/mansouralaw](https://www.linkedin.com/in/mansouralaw)
 - **Location:** Kuala Lumpur, Malaysia
 - Open to collaborations in Medical AI, computational biology, and high-performance AI systems!
